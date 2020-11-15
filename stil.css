@@ -1,0 +1,70 @@
+/*---------------------INDEX---------------------*/
+body{
+    font-family: monospace;
+    background-color: black;
+    color:red;
+}
+.slika{
+
+    border-radius: 50%;
+    height: 150px;
+    width: 200px;
+    margin-right: 50px;
+}
+.div1{
+    padding-top: 2px;
+    border-bottom-style: solid;
+    border-width: 2px;
+    border-color:red;
+    height: 180px;
+    font-size: 12pt;
+}
+.tocka{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: white;
+    display: inline-block;
+    margin-right: 5px;
+}
+.div2{
+    clear: left;
+    padding-top: 10px;
+    padding-left: 20px;
+    border-bottom-style: solid;
+    border-width: 2px;
+    border-color: red);
+}
+.div3{
+    padding-top: 10px;
+    padding-left: 20px;
+    border-bottom-style: solid;
+    border-width: 2px;
+    border-color: red;
+}
+table{
+    padding-left: 0;
+    font-size: 12pt;
+    border-spacing: 40px;
+}
+th{
+    text-align: center;
+    font-weight: bold;
+}
+.div4{
+    padding-top: 10px;
+    padding-left: 20px;
+    border-bottom-style: solid;
+    border-width: 2px;
+    border-color: red;
+    font-size: 12pt;
+    height: 200px;
+}
+.div5{
+    font-size: 12pt;
+    padding: 10px;
+}
+
+.kontakt{
+    width: 300px;
+}
